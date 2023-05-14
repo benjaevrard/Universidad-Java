@@ -9,5 +9,5 @@ package com.mycompany.prueba_java;
  * @author Cuent
  */
 public class DAO_prueba {
-    
+    //Comentario de prueba
 }
